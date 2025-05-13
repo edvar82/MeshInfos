@@ -45,11 +45,8 @@ O `MeshDebugger` é uma ferramenta que ajuda desenvolvedores a entender melhor a
 - Navegue até `Window > XR > MRTK3 > Project Validator` para verificar configurações
 
 4. **Configure a Cena**
-- Abra a cena principal (ou crie uma nova)
-- Adicione um objeto vazio à cena
-- Adicione o componente `ARMeshManager` ao objeto
-- Adicione o componente `MeshDebugger` ao mesmo objeto
-
+- Abra a cena principal que está na pasta Scenes.
+  
 ## Compilando para HoloLens 2
 
 1. **Configure a Plataforma para UWP**
