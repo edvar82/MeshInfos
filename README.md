@@ -1,6 +1,3 @@
-# MRTK3SpatialMesh
-Shows how to use Spatial Mesh with MRKT3 on HoloLens 2
-
 # MRTK3SpatialMesh - MeshDebugger para HoloLens 2
 
 ## Depurador Visual para Malhas Espaciais em Aplicações de Realidade Mista
@@ -162,6 +159,6 @@ O script `MeshDebugger.cs` possui os seguintes componentes principais:
 3. **Visualização**: Desenha linhas para formar um bounding box ao redor da malha selecionada
 4. **Logging**: Exibe informações detalhadas sobre a malha para fins de depuração
 
-## Testar com build local
-Na pasta que está em Build, abra o arquivo `MeshDebugger.sln` e siga os passos comentados em [Depurando com Visual Studio](#depurando-com-visual-studio).
-- Para ver os logs de depuração, vá em `Debug > Windows > Output` e filtre por `[MESH_DEBUGGER]` para ver apenas as mensagens do MeshDebugger.
+## Testar com build já pronto
+Na pasta que está o build, abra o arquivo `MeshDebugger.sln` e siga os passos comentados em [Depurando com Visual Studio](#depurando-com-visual-studio).
+- Para ver os logs de depuração, vá em `Debug > Windows > Output` no visual studio e filtre por `[MESH_DEBUGGER]` para ver apenas as mensagens do MeshDebugger.
