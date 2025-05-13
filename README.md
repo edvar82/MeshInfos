@@ -87,9 +87,9 @@ O `MeshDebugger` é uma ferramenta que ajuda desenvolvedores a entender melhor a
 - Na barra de ferramentas, defina:
   - Configuração: `Debug`
   - Plataforma: `ARM64`
-  - Dispositivo de destino: `Device` (para HoloLens físico) ou `Remote Machine` (para conexão remota)
+  - Dispositivo de destino: `Remote Machine`
 
-3. **Configure a Conexão Remota** (se estiver usando Wi-Fi)
+3. **Configure a Conexão Remota** 
 - Em Propriedades do Projeto > Debugging
 - Em "Machine Name", insira o endereço IP do HoloLens
 - Em "Authentication Type", selecione "Universal (Unencrypted Protocol)"
